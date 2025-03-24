@@ -1,4 +1,4 @@
-# Paid Search Campaign Performance Analysis  
+# Marketing Campaign Performance Analysis  
 
 ## Project Overview  
 Understanding the effectiveness of paid search campaigns is crucial for optimizing marketing budgets and maximizing returns. This project analyzes a **5-month paid search campaign** for a shopping mall to determine whether ad spend translated into meaningful engagement and conversions.  
