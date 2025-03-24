@@ -29,8 +29,7 @@ The dataset captures **40 distinct ad groups** used to promote the shopping mall
 ---
 
 ## Campaign Performance Dashboard  
-![image](https://github.com/user-attachments/assets/3163b09a-6875-4046-aad6-d597be669de6)
-  
+![image](https://github.com/user-attachments/assets/097a47a9-253b-4042-94c4-b84f22b052a4)
 
 ---
 
